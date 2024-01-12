@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eatkin" alt="eatkin" /></a> </p>
 
-- 🔭 I’m currently working on [an Atari 2600 game](https://github.com/Eatkin/atari)
+- 🔭 I’m currently working on [a command line interface for David Social](https://github.com/Eatkin/david-social-cli)
 
-- 🌱 I’m currently learning **6502 Assembly, Apache Airflow**
+- 🌱 I’m currently learning **Curses**
 
 - 👨‍💻 All of my projects are available at [https://www.edwardatkin.co.uk](https://www.edwardatkin.co.uk)
 
