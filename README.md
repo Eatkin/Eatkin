@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eatkin" alt="eatkin" /></a> </p>
 
-- 🔭 I’m currently working on [a command line interface for David Social](https://github.com/Eatkin/david-social-cli)
+- 🔭 I’m currently working on [a command line tool to parse and explore your Google Chrome bookmarks](https://github.com/Eatkin/bookmarks-CLI) and also learning the Colemak keyboard layout because my life is too good.
 
-- 🌱 I’m currently learning **Curses**
+- 🌱 I’m currently learning **Curses library for Python**
 
 - 👨‍💻 All of my projects are available at [https://www.edwardatkin.co.uk](https://www.edwardatkin.co.uk)
 
 - 📝 I regularly write articles on [https://codingheaven.btw.so/](https://codingheaven.btw.so/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** and **meme distros of Linux (I use UwUntu btw)**
 
 - 📫 How to reach me **edwardatkin@edwardatkin.co.uk**
 
