@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ed</h1>
-<h3 align="center">A data engineer and game developer who loves programming things and writing automation tools</h3>
+<h3 align="center">A data ops engineer and game developer who loves programming things and writing automation tools</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eatkin" alt="eatkin" /></a> </p>
 
