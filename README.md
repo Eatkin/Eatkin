@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ed</h1>
 <h3 align="center">A data ops engineer and game developer who loves programming things and writing automation tools</h3>
 
+# TODO: Update this (it's been well over a year)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eatkin" alt="eatkin" /></a> </p>
 
 - 🔭 I’m currently working on [a command line tool to parse and explore your Google Chrome bookmarks](https://github.com/Eatkin/bookmarks-CLI) and also learning the Colemak keyboard layout because my life is too good.
