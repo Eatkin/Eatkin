@@ -1,34 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ed</h1>
-<h3 align="center">A data ops engineer and game developer who loves programming things and writing automation tools</h3>
+# ED.EXE // STATUS: ONLINE
 
-# TODO: Update this (it's been well over a year)
+Hi. I'm Ed.
+A Data Ops Engineer. Also a Full-Stack Web Dev. And a Software Engineer. And a Game Dev.
+Basically, if it involves programming things or building automation tools, I'm probably doing it.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eatkin" alt="eatkin" /></a> </p>
+### My Projects (Enter If You Dare)
 
-- 🔭 I’m currently working on [a command line tool to parse and explore your Google Chrome bookmarks](https://github.com/Eatkin/bookmarks-CLI) and also learning the Colemak keyboard layout because my life is too good.
+Scattered across the internet, but I did aim to centralise everything for my website https://www.edwardatkin.co.uk
 
-- 🌱 I’m currently learning **Curses library for Python**
+### Brain Dump (aka My Blog)
 
-- 👨‍💻 All of my projects are available at [https://www.edwardatkin.co.uk](https://www.edwardatkin.co.uk)
+I regularly inflict my thoughts upon the internet...on my website. (If you want programming stuff go here https://edwardatkin.co.uk/?collection=coding_heaven)
 
-- 📝 I regularly write articles on [https://codingheaven.btw.so/](https://codingheaven.btw.so/)
+### Inquiries (Proceed with Caution)
 
-- 💬 Ask me about **Python** and **meme distros of Linux (I use UwUntu btw)**
+* **Ask me about:** Python, why GUI was a mistake, rolla bollas, general clownery, how automating myself out of a job is going,
+* **How to reach me:** Carrier pigeon. Or make a pull request. Once I had my email here and I hear from more (probably non-existent) SEO experts than there are people on the planet.
 
-- 📫 How to reach me **edwardatkin@edwardatkin.co.uk**
+### Vital Stats & Weird Flexes
 
-- ⚡ Fun fact **I like to go rollerblading**
+* **My Philosophy:** I don't follow the rule of three; I follow the rule of zero. If I write something once, it's getting abstracted into a class. My code is 100% abstract, 100% modular, and 100% extensible. I *am* obsessed. It's actually kind of weird.
+* **The Stack of Pain:** GUI was a mistake, Vim is a good code editor, and what's a Javascript library?
+* **The Money Printer:** Back in the day, I dabbed in ML. Now I have a horse racing predictor based on an MLP architecture that prints money. My Raspberry Pi uses the Betfair API to place bets for me. It's fully self-aware. I literally do nothing.
+* **Life Goal:** Automate myself out of a job. It's going pretty well. I use the Slack API so my 2am cron jobs can tell me if anything is on fire.
+* **Fun Facts:** Juggling, rollerblading, unicycling, and banjo plucking. You could say I hyperfocus on random hobbies. These ones stuck. Probably because they're weird.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/eatkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eatkin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eatkin92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eatkin92" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@classiced" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@classiced" height="30" width="40" /></a>
-</p>
+This readme is not just a readme. It's a statement. It's an experience. It's a journey.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**My CVZine:** https://zines.edwardatkin.co.uk/viewer/cvzine
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eatkin&show_icons=true&locale=en&layout=compact" alt="eatkin" /></p>
+No, I don't have a normal CV.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eatkin&show_icons=true&locale=en" alt="eatkin" /></p>
+### Connect With Me
+
+Here's my LinkedIn page which is probably disabled because LinkedIn is a happiness sink: https://linkedin.com/in/eatkin92
+
+### Tech Stack
+
+* Python
+* 6502 Assembly
+* Brainfuck
+* Electric Kettle (for making tea)
+* Some other stuff idk
+
+### Essential Skills
+
+* Can exit Vim
+* Cat Overlord
+* Here's my solution to FizzBuzz: `fizzbuzz = lambda n: [(__import__("functools").reduce(lambda x, kv: x + kv[1] * (not i % kv[0]), {3: "Fizz", 5: "Buzz"}.items(), "") or i) for i in range(1, n + 1)]`
