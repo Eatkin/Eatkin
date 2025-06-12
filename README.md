@@ -14,7 +14,7 @@ I regularly inflict my thoughts upon the internet...on my website. (If you want 
 
 ### Inquiries (Proceed with Caution)
 
-* **Ask me about:** Python, why GUI was a mistake, rolla bollas, general clownery, how automating myself out of a job is going,
+* **Ask me about:** Python, why GUI was a mistake, rolla bollas, general clownery, how automating myself out of a job is going
 * **How to reach me:** Carrier pigeon. Or make a pull request. Once I had my email here and I hear from more (probably non-existent) SEO experts than there are people on the planet.
 
 ### Vital Stats & Weird Flexes
