@@ -11,9 +11,11 @@ I like solving real problems with clean abstractions and building things that mo
 ## Projects and Writing
 
 Most of my work lives here:
+
 **→ [edwardatkin.co.uk](https://www.edwardatkin.co.uk)**
 
-You'll find tools, code experiments, automation hacks, and the occasional opinion piece:  
+You'll find coding nonsense such as automated Advent of Code thievery and Fizz Buzz converted into audio below:
+
 **→ [Blog (Coding Heaven)](https://edwardatkin.co.uk/?collection=coding_heaven)**
 
 ## Ask Me About
