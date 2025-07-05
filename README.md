@@ -1,50 +1,39 @@
 # ED.EXE // STATUS: ONLINE
 
-Hi. I'm Ed.
-A Data Ops Engineer. Also a Full-Stack Web Dev. And a Software Engineer. And a Game Dev.
-Basically, if it involves programming things or building automation tools, I'm probably doing it.
+Python + Bash + Also: 6502 Assembly, Forth, Brainfuck
 
-### My Projects (Enter If You Dare)
+## Who I Am
 
-Scattered across the internet, but I did aim to centralise everything for my website https://www.edwardatkin.co.uk
+Hi, I'm Ed.  
+Data Ops Engineer by trade. I also build full-stack apps, game engines, weird automation tools, and occasionally write blog posts about them.  
+I like solving real problems with clean abstractions and building things that mostly run themselves.
 
-### Brain Dump (aka My Blog)
+## Projects and Writing
 
-I regularly inflict my thoughts upon the internet...on my website. (If you want programming stuff go here https://edwardatkin.co.uk/?collection=coding_heaven)
+Most of my work lives here:
+**→ [edwardatkin.co.uk](https://www.edwardatkin.co.uk)**
 
-### Inquiries (Proceed with Caution)
+You'll find tools, code experiments, automation hacks, and the occasional opinion piece:  
+**→ [Blog (Coding Heaven)](https://edwardatkin.co.uk/?collection=coding_heaven)**
 
-* **Ask me about:** Python, why GUI was a mistake, rolla bollas, general clownery, how automating myself out of a job is going
-* **How to reach me:** Carrier pigeon. Or make a pull request. Once I had my email here and I hear from more (probably non-existent) SEO experts than there are people on the planet.
+## Ask Me About
 
-### Vital Stats & Weird Flexes
+- Python (esp. automation and code architecture)
+- Why GUI was a mistake
+- Juggling, rolla bollas, and other circus-related nonsense
+- The project where my Raspberry Pi places horse racing bets
+- How I'm trying to automate myself out of a job
 
-* **My Philosophy:** I don't follow the rule of three; I follow the rule of zero. If I write something once, it's getting abstracted into a class. My code is 100% abstract, 100% modular, and 100% extensible. I *am* obsessed. It's actually kind of weird.
-* **The Stack of Pain:** GUI was a mistake, Vim is a good code editor, and what's a Javascript library?
-* **The Money Printer:** Back in the day, I dabbed in ML. Now I have a horse racing predictor based on an MLP architecture that prints money. My Raspberry Pi uses the Betfair API to place bets for me. It's fully self-aware. I literally do nothing.
-* **Life Goal:** Automate myself out of a job. It's going pretty well. I use the Slack API so my 2am cron jobs can tell me if anything is on fire.
-* **Fun Facts:** Juggling, rollerblading, unicycling, and banjo plucking. You could say I hyperfocus on random hobbies. These ones stuck. Probably because they're weird.
+## Personal Stack
 
-This readme is not just a readme. It's a statement. It's an experience. It's a journey.
+- **Philosophy:** I aim for code that's modular, reusable and often unreasonably abstracted.
+- **Automation:** I use the Slack API to make sure 2am cron jobs ping me if something breaks.
+- **Betting Bot:** Raspberry Pi + Betfair API + MLP architecture = passive income stream. Kind of.
+- **Editor Wars:** Vim, but moving to Emacs Evil Mode.
+- **Hardware:** Electric kettle. Critical dependency.
 
-**My CVZine:** https://zines.edwardatkin.co.uk/viewer/cvzine
+## Irrelevant But Real Skills
 
-No, I don't have a normal CV.
-
-### Connect With Me
-
-Here's my LinkedIn page which is probably disabled because LinkedIn is a happiness sink: https://linkedin.com/in/eatkin92
-
-### Tech Stack
-
-* Python
-* 6502 Assembly
-* Brainfuck
-* Electric Kettle (for making tea)
-* Some other stuff idk
-
-### Essential Skills
-
-* Can exit Vim
-* Cat Overlord
-* Here's my solution to FizzBuzz: `fizzbuzz = lambda n: [(__import__("functools").reduce(lambda x, kv: x + kv[1] * (not i % kv[0]), {3: "Fizz", 5: "Buzz"}.items(), "") or i) for i in range(1, n + 1)]`
+- Can exit Vim _and_ Emacs.
+- Can juggle, unicycle, and rollerblade (not simultaneously, yet)
+- Built a CV as a zine: [cvzine.edwardatkin.co.uk](https://zines.edwardatkin.co.uk/viewer/cvzine)
