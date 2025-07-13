@@ -1,6 +1,6 @@
 # ED.EXE // STATUS: ONLINE
 
-Python + Bash + Also: 6502 Assembly, Forth, Brainfuck
+Python + Bash + Also: 6502 Assembly, Forth, Brainfuck, Lisp (WIP)
 
 ## Who I Am
 
